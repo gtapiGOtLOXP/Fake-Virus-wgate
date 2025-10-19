@@ -4,7 +4,7 @@ Welcome to the Fake-Viruses Batch Repository! Here you will find a collection of
 
 ## Disclaimer
 
-I, Johan Arakelian Goutorbe, want to clarify that I had nothing to do with the creation or distribution of actual malicious software. The scripts in this repository are entirely harmless and are meant to showcase basic batch programming techniques rather than causing any harm to your computer or data.
+I, gtapiGOtLOXP, want to clarify that I had nothing to do with the creation or distribution of actual malicious software. The scripts in this repository are entirely harmless and are meant to showcase basic batch programming techniques rather than causing any harm to your computer or data.
 
 ## What's Inside
 
